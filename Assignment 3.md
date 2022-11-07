@@ -1,11 +1,11 @@
 # Assignment 3 - Object-Oriented Analysis, Design, and Programming
 
 ## Problem 1: Object-Oriented Design
-I have decided to program myself in two different contexts. One of them is as an employee at a store, the other is as a BA-student. In addition to that, a third class is present which is a mix of the two, so as to make a combination possible, but avoiding multiple inheritance while doing so.
+I have decided to program myself in two different contexts. One of them is as an employee at a store, the other is as a BA-student. Therefore, one class is created for each of these two contexts. This makes it possible to create an object which is either a store employee or a student, but since I am both, a third class is created, which is a mix of the two, so as to make a combination possible while avoiding multiple inheritance. 
 
 <img src="uml.png">
 
-The StoreEmployee class has variables such as workplace, job title, department, etc. and functions for working a shift and receiving a paycgeck, while the Student class has a study program variable and a study function. The StudentAndEmployee class is simply a combination of the two classes. 
+The StoreEmployee class has variables such as workplace, job title, department, etc. and functions for working a shift and receiving a paycheck, while the Student class has a study program variable and a study function. The StudentAndEmployee class is simply a combination of the two classes. 
 
 ## Problem 2: Object-Oriented Programming
 ### Person
