@@ -42,7 +42,7 @@ class StoreEmployee(Person):
 ```
 **workShift()**
 
-The workShift() function ads the number of hours passed as 'duration' to the hours_worked variable and prints out a statement to confirm that the object has worked for that amount of hours.
+The workShift() function adds the number of hours passed as 'duration' to the hours_worked variable and prints out a statement to confirm that the object has worked for that amount of hours.
 
 **receivePaycheck()**
 
